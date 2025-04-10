@@ -1,0 +1,6 @@
+skill,industry,year,total_employed,demand_score,predicted_salary
+Python,Tech,2025,136.5,97.85000000000001,964800.0
+Java,Tech,2025,99.75,92.7,971900.0
+SQL,Finance,2025,78.75,82.4,900600.0
+PowerBI,Business,2025,57.75,77.25,853400.0
+React,Tech,2025,68.25,87.55,950000.0
